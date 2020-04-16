@@ -2,7 +2,7 @@
 Cross Platform Command line text colorizer library for C &amp; C++ languages. You can "printf" with colors easly 
 
 ## An example 
-![alt text](https://github.com/Aksoylu/Console-Colorizer/blob/master/example.png)
+![alt text](https://github.com/Aksoylu/Console-Colorizer/blob/master/exampleimage.png)
 
 ## Printf with colors with 3 steps
 
